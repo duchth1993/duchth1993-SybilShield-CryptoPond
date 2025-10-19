@@ -1,0 +1,11 @@
+wallet,is_bot,confidence_score,source
+0x1a...,1,0.95,simulated_bot
+0x2b...,1,0.93,simulated_bot
+0x3c...,1,0.96,simulated_bot
+0x4d...,1,0.94,simulated_bot
+0x5e...,1,0.97,simulated_bot
+0x6f...,0,0.90,simulated_real
+0x7g...,0,0.88,simulated_real
+0x8h...,0,0.92,simulated_real
+0x9i...,0,0.89,simulated_real
+0x0j...,0,0.91,simulated_real
